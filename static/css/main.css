@@ -2698,6 +2698,9 @@ span.invalid-error {
   margin-top: 42px;
   text-transform: uppercase;
 }
+.page-foot .copyright a {
+  color: #fff;
+}
 .page-foot .socials {
   padding-left: 0;
   list-style: none;
